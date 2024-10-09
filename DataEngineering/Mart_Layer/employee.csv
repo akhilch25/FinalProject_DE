@@ -1,4 +1,4 @@
-,id,empID,name,designation,password,email,mobile,performance_rate
+,id,empid,name,designation,password,email,mobile,performance_rate
 0,1,EMP001,Employee1,Lead,password1,employee1@emp.com,9046093686,55.89
 1,2,EMP002,Employee2,SDE2,password2,employee2@emp.com,7480247387,58.42
 2,3,EMP003,Employee3,HR,password3,employee3@emp.com,7279416815,83.39

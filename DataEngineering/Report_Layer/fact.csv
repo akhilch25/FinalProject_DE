@@ -1,4 +1,4 @@
-empID,designation,courseID,course_name,duration_weeks,difficulty_level,completion_rate,learning_path
+empid,designation,courseid,course_name,duration_weeks,difficulty_level,completion_rate,learning_path
 EMP283,QA,COURSE050,E-commerce Development,2,Intermediate,57.07,Cloud Computing
 EMP179,HR,COURSE047,Data Structures,1,Advanced,74.85,Web Development
 EMP448,Lead,COURSE029,Data Analysis with Python,5,Advanced,57.76,Data Science

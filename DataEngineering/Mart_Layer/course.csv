@@ -1,4 +1,4 @@
-id,courseID,name,duration,difficulty_level,learning_path,duration_weeks
+id,courseid,name,duration,difficulty_level,learning_path,duration_weeks
 1,COURSE001,Technical Writing,6 weeks,Advanced,Data Science,6
 2,COURSE002,Database Management,2 weeks,Beginner,Cloud Computing,2
 3,COURSE003,ITIL Foundation,5 weeks,Intermediate,Cloud Computing,5
